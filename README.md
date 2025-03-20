@@ -1,6 +1,6 @@
 # FairML4H-PostProcessing
 
-This repository contains supplementary results for the paper *"Empirical comparison of post-processing debias methods for ML classifiers in healthcare"* by Vien Ngoc Dang et al. This project evaluates the effectiveness of various post-processing debias methods in improving fairness and performance of machine learning classifiers, focusing on healthcare applications to ensure equitable outcomes across different demographic groups.
+This repository contains supplementary results for the paper [*"Empirical comparison of post-processing debias methods for ML classifiers in healthcare"*](https://link.springer.com/article/10.1007/s41666-025-00196-7?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250320&utm_content=10.1007/s41666-025-00196-7) by Vien Ngoc Dang et al. This project evaluates the effectiveness of various post-processing debias methods in improving fairness and performance of machine learning classifiers, focusing on healthcare applications to ensure equitable outcomes across different demographic groups.
 ## Methods
 
 We evaluated seven state-of-the-art post-processing debiasing methods:
